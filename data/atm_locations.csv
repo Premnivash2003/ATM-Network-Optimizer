@@ -1,0 +1,21 @@
+atm_id,zone,zone_label,latitude,longitude
+ATM_001,downtown,Downtown,12.979051,80.218826
+ATM_002,downtown,Downtown,12.981315,80.243745
+ATM_003,downtown,Downtown,12.968088,80.217388
+ATM_004,downtown,Downtown,12.995288,80.232412
+ATM_005,downtown,Downtown,12.964558,80.229038
+ATM_006,downtown,Downtown,12.964649,80.213914
+ATM_007,downtown,Downtown,12.975229,80.192201
+ATM_008,suburbs,Suburbs,12.910502,80.233754
+ATM_009,suburbs,Suburbs,12.924743,80.251285
+ATM_010,suburbs,Suburbs,12.92684,80.216754
+ATM_011,suburbs,Suburbs,12.974313,80.240484
+ATM_012,suburbs,Suburbs,12.946351,80.216505
+ATM_013,suburbs,Suburbs,12.934112,80.247218
+ATM_014,suburbs,Suburbs,12.92198,80.252514
+ATM_015,shopping,Shopping District,12.992792,80.2065
+ATM_016,shopping,Shopping District,12.99278,80.232227
+ATM_017,shopping,Shopping District,12.999838,80.197307
+ATM_018,shopping,Shopping District,13.009871,80.19535
+ATM_019,shopping,Shopping District,13.002506,80.186484
+ATM_020,shopping,Shopping District,12.984062,80.212362

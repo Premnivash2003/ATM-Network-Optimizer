@@ -1,0 +1,35 @@
+=================================================================
+  ATM-NET OPTIMIZER — RECOMMENDATION REPORT
+=================================================================
+  Total ATMs analysed  : 20
+  Overloaded ATMs      : 1
+  Underused ATMs       : 3
+  Normal ATMs          : 16
+
+  CLASSIFICATION THRESHOLDS
+  ---------------------------------------------------------------
+  Overloaded: PageRank > 0.05503  |  Degree > 0.842105  |  Tx > 458
+  Underused : PageRank < 0.047466  |  Tx < 402
+
+  OVERLOADED ATMs (ACTION: Add nearby ATM or increase cash capacity)
+  ---------------------------------------------------------------
+  ATM_017     Zone: Shopping District       PageRank: 0.063512  Tx:  470
+
+  UNDERUSED ATMs (ACTION: Consider removal or relocation)
+  ---------------------------------------------------------------
+  ATM_020     Zone: Shopping District       PageRank: 0.046164  Tx:  385
+  ATM_008     Zone: Suburbs                 PageRank: 0.043534  Tx:  375
+  ATM_003     Zone: Downtown                PageRank: 0.035600  Tx:  329
+
+  NEW ATM PLACEMENT RECOMMENDATION
+  ---------------------------------------------------------------
+  Suggested location   : (12.973258, 80.223803)
+  Based on ATMs        : ATM_014, ATM_004, ATM_019
+  Rationale:
+    These 3 ATMs have the lowest closeness centrality (ATM_014,
+    ATM_004, ATM_019), meaning they are the most isolated in the
+    network. Placing a new ATM at their geographic midpoint
+    (12.973258, 80.223803) would improve network connectivity
+    and reduce travel distance for underserved customers.
+
+=================================================================

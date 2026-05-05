@@ -1,0 +1,21 @@
+atm_id,community_id,zone,latitude,longitude,pagerank,transaction_count,community_label
+ATM_008,0,Suburbs,12.910502,80.233754,0.043534,375,Cluster 0 – Suburbs
+ATM_009,0,Suburbs,12.924743,80.251285,0.048606,459,Cluster 0 – Suburbs
+ATM_010,0,Suburbs,12.92684,80.216754,0.051859,447,Cluster 0 – Suburbs
+ATM_011,0,Suburbs,12.974313,80.240484,0.054646,440,Cluster 0 – Suburbs
+ATM_012,0,Suburbs,12.946351,80.216505,0.049619,413,Cluster 0 – Suburbs
+ATM_013,0,Suburbs,12.934112,80.247218,0.049632,420,Cluster 0 – Suburbs
+ATM_014,0,Suburbs,12.92198,80.252514,0.051525,458,Cluster 0 – Suburbs
+ATM_001,1,Downtown,12.979051,80.218826,0.057121,337,Cluster 1 – Downtown
+ATM_002,1,Downtown,12.981315,80.243745,0.044919,428,Cluster 1 – Downtown
+ATM_003,1,Downtown,12.968088,80.217388,0.0356,329,Cluster 1 – Downtown
+ATM_004,1,Downtown,12.995288,80.232412,0.056183,429,Cluster 1 – Downtown
+ATM_005,1,Downtown,12.964558,80.229038,0.057044,421,Cluster 1 – Downtown
+ATM_006,1,Downtown,12.964649,80.213914,0.051221,548,Cluster 1 – Downtown
+ATM_007,1,Downtown,12.975229,80.192201,0.033833,461,Cluster 1 – Downtown
+ATM_015,2,Shopping District,12.992792,80.2065,0.049978,440,Cluster 2 – Shopping District
+ATM_016,2,Shopping District,12.99278,80.232227,0.0479,345,Cluster 2 – Shopping District
+ATM_017,2,Shopping District,12.999838,80.197307,0.063512,470,Cluster 2 – Shopping District
+ATM_018,2,Shopping District,13.009871,80.19535,0.058107,520,Cluster 2 – Shopping District
+ATM_019,2,Shopping District,13.002506,80.186484,0.048996,408,Cluster 2 – Shopping District
+ATM_020,2,Shopping District,12.984062,80.212362,0.046164,385,Cluster 2 – Shopping District
